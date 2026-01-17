@@ -21,29 +21,6 @@ No vídeo, a construção da aplicação segue esta ordem:
 
 O código aqui serve como **apoio ao raciocínio arquitetural** apresentado.
 
-## 🏷️ Estrutura de versões (tags)
-
-O repositório possui duas versões principais:
-
-### 🔹 `initial`
-Versão inicial para acompanhar o vídeo passo a passo, contendo:
-
-- Estrutura de pastas
-- Arquivos Python vazios ou com TODOs
-- Dependências definidas
-
-👉 Ideal para quem quer **construir junto**.
-
-### 🔹 `complete`
-Versão final com a aplicação totalmente funcional, contendo:
-
-- Ingestão de documentos
-- Banco vetorial
-- API de perguntas
-- Exemplos de documentos
-
-👉 Ideal como **referência** ou para quem quer testar direto.
-
 ## 📁 Estrutura do projeto
 
 ```text
