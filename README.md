@@ -1,6 +1,6 @@
 # RAG Local Demo
 
-Este repositório foi criado [nesse vídeo]() e rodando **100% local**, com foco em **arquitetura, dados e decisões de design**, não apenas em frameworks.
+Este repositório foi criado [nesse vídeo](https://youtu.be/j0CdfesdRZQ) e rodando **100% local**, com foco em **arquitetura, dados e decisões de design**, não apenas em frameworks.
 
 A ideia é mostrar como uma aplicação RAG funciona **de ponta a ponta**:
 - Ingestão de documentos
