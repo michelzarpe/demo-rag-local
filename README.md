@@ -137,3 +137,6 @@ Este projeto não é um produto pronto, mas um exemplo didático para discutir:
 
 ## 📜 Licença
 Uso educacional e demonstrativo.
+
+## Arquitetura
+![RAG](RAG.PNG)
