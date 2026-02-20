@@ -140,3 +140,11 @@ Uso educacional e demonstrativo.
 
 ## Arquitetura
 ![RAG](RAG.PNG)
+
+## curl 
+curl -X POST http://localhost:8000/pergunta \
+ -H "Content-Type: application/json" \
+ -d '{ "question":"O que é arquitetura de dados?"}'
+
+ ## subir aplicação
+ uvicorn app.main:app --reload
